@@ -1,0 +1,6 @@
+.env
+venv/
+__pycache__/
+*.__pyc
+Model Ans Odd 2024.pdf
+main_backy.py 
